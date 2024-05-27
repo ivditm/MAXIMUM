@@ -1,0 +1,2 @@
+# MAXIMUM
+тестовое для MAXIMUM
